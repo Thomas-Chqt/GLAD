@@ -5,7 +5,7 @@
 # Date: 2024/08/04 18:49:57
 # ---------------------------------------------------
 
-cmake_minimum_required(VERSION 3.23)
+cmake_minimum_required(VERSION 3.16)
 
 option(BUILD_SHARED_LIBS "Build using shared libraries" OFF)
 
